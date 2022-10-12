@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arun Madhavan
-- 👀 I’m interested in UX, Marketing and Product
+- 👀 I’m interested in UX, Analytics and Product
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on UX and Marketing
+- 💞️ I’m looking to collaborate on UX and Product
 - 📫 How to reach me https://www.linkedin.com/in/arun-madhavan-72b24314a/
 
 <!---
